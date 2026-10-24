@@ -1,0 +1,4 @@
+Ticker,Buy Price,Quantity,Sample Current Price,Invested Amount,Market Value,Gain/Loss,Gain/Loss %
+AAPL,200.0,5,230.0,1000.0,1150.0,150.0,15.0
+,,,,,,,
+TOTAL,,,,1000.0,1150.0,150.0,15.0
